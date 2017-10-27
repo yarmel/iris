@@ -4,7 +4,7 @@
 <img src="iris_the_new_machine.gif">
 </p> -->
 
-Iris is a fast, simple and efficient micro web framework for Go. It provides a beautifully expressive and easy to use foundation for your next website, API, or distributed app.
+IRIS - це швидкий, простий та ефективний мікро веб-фреймворк написаний на Go. Фреймворк забезпечує прекрасну, виразну та просту у використанні основу для вашого наступного веб-сайту, API або додатку.
 
 We have no doubt you will able to find other web frameworks written in Go
 and even put up a real fight to learn and use them for quite some time but
